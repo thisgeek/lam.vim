@@ -1,5 +1,5 @@
 " Classic Janus mappings
-nmap <leader>gb :Gblame<CR>
+nmap <leader>gb :Git blame<CR>
 nmap <leader>gs :Git<CR>
 nmap <leader>gd :Gdiff<CR>
 nmap <leader>gc :Git commit<CR>
