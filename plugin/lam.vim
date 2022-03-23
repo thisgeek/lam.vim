@@ -21,6 +21,9 @@ nmap <leader>gfp :Git push -f<CR>
 command! GSetUpstream execute "Git push -u origin" FugitiveHead()
 nmap <leader>gsu :GSetUpstream<CR>
 
+" Shortcut for editing a fugitive object
+nmap <leader>ge :Gedit<CR>
+
 " TODO how to get current branch name
 " TODO in mergetool: show message when there are no more conflicts
 
