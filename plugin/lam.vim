@@ -1,9 +1,3 @@
-""
-"" Lam is a vim plugin for using vim-fugitive quickly. It steals mappings from
-"" the excellent Janus project, and adds a few more helpers of my own
-"" invention.
-""
-
 " Classic Janus mappings
 nmap <leader>gb :Gblame<CR>
 nmap <leader>gs :Git<CR>
